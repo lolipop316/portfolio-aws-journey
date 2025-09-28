@@ -13,12 +13,11 @@ I kept it simple but added a few security features to learn the basics.
 ### Diagram
 ![Architecture Diagram](diagram.png)
 
-### Why
+---
+
 This is one of my early AWS projects. I wanted something I could show in my portfolio that uses storage, networking, monitoring, and security all together.  
 
 ---
 
 📂 Files:  
 - `diagram.png` (my diagram)  
-- `notes.md` (what I learned)  
-- `code/` (any scripts/configs)  
