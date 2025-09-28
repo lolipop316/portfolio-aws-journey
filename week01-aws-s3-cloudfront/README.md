@@ -11,7 +11,7 @@ I kept it simple but added a few security features to learn the basics.
 - **CloudWatch + Lambda** for monitoring and auto-response  
 
 ### Diagram
-![Architecture Diagram](diagram.png)
+<img src="diagram.png" alt="AWS Architecture" width="450"/>
 
 ----
 
