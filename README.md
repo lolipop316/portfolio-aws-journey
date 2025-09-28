@@ -1,7 +1,7 @@
 # Artifacts Portfolio
 
 This repo contains my weekly polished artifacts from studying Security+, AWS, and Full-Stack Development.  
-Each week I add one project, lab, or diagram that shows what I built and what I learned.
+Each week I add one project, lab, or diagram that shows what I built and what I learned..
 
 ## Index
 
