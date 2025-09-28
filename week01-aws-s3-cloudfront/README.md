@@ -11,7 +11,7 @@ I kept it simple but added a few security features to learn the basics.
 - **CloudWatch + Lambda** for monitoring and auto-response  
 
 ### Diagram
-![Architecture Diagram](diagramV2.png)
+![Architecture Diagram](diagram.png)
 
 ### Why
 This is one of my early AWS projects. I wanted something I could show in my portfolio that uses storage, networking, monitoring, and security all together.  
