@@ -11,13 +11,10 @@ I kept it simple but added a few security features to learn the basics.
 - **CloudWatch + Lambda** for monitoring and auto-response  
 
 ### Diagram
-<img src="diagram.png" alt="AWS Architecture" width="280"/>
+<img src="diagram.png" alt="AWS Architecture" width="345"/>
 
-----
 
 This is one of my early AWS projects. I wanted something I could show in my portfolio that uses storage, networking, monitoring, and security all together.  
-
-----
 
 📂 Files:  
 - `diagram.png` (my diagram)  
