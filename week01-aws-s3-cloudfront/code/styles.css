@@ -1,0 +1,74 @@
+.projects {
+  padding: 2rem;
+  background: #f9f9f9;
+}
+
+.projects {
+  max-width: 1000px;   /* keeps content from stretching too wide */
+  margin: 0 auto;      /* centers the section on the page */
+  padding: 2rem;       /* adds breathing room inside */
+}
+
+
+.project-card {
+  display: flex;
+  flex-wrap: wrap; /* Ensures responsiveness */
+  gap: 1.5rem;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.diagram img {
+  max-width: 300px;
+  border-radius: 8px;
+}
+
+.summary {
+  flex: 1;
+  min-width: 250px;
+}
+
+.summary h3 {
+  margin-bottom: .5rem;
+  color: #333;
+}
+.project-card {
+  display: flex;
+  justify-content: space-between; /* pushes summary left, diagram right */
+  align-items: flex-start;
+  flex-wrap: wrap; /* ensures stacking on mobile */
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+/* Summary text */
+.summary {
+  flex: 1;
+  min-width: 250px;
+}
+
+/* Diagram */
+.diagram {
+  flex: 1;
+  min-width: 250px;
+  text-align: center; /* centers the diagram caption */
+}
+
+.diagram img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .project-card {
+    flex-direction: column; /* stack vertically */
+    text-align: center;     /* center text + diagram */
+  }
+
+  .summary {
+    margin-bottom: 1.5rem; /* space between text and diagram */
+  }
+}
