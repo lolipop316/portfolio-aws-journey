@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Portfolio Website</title>
+  <title>Projects - Portfolio Website</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="styles.css" rel="stylesheet">
@@ -24,24 +24,34 @@
     <section class="projects">
       <h2>Projects</h2>
 
-     <div class="project-card">
-  <!-- Summary on the left -->
-  <div class="summary">
-  <h3>AWS Portfolio Project</h3>
-  <p>
-    Hosted on S3 and delivered globally with CloudFront, protected by WAF, and monitored using CloudWatch + Lambda.  
-    This project combines storage, networking, security, and monitoring into one portfolio-ready AWS architecture.
-  </p>
-</div>
+      <!-- AWS Project -->
+      <div class="project-card">
+        <div class="summary">
+          <h3>AWS Portfolio Project</h3>
+          <p>
+            Hosted on S3 and delivered globally with CloudFront, protected by WAF, 
+            and monitored using CloudWatch + Lambda.  
+            Combines storage, networking, security, and monitoring into one portfolio-ready AWS architecture.
+          </p>
+        </div>
+        <div class="diagram">
+          <h4>Architecture Diagram</h4>
+          <img src="diagram.png" alt="AWS Architecture Diagram" width="220">
+        </div>
+      </div> <!-- ✅ closes the AWS project-card -->
+    </section> <!-- ✅ closes the AWS section -->
 
-  <!-- Diagram on the right -->
-  <div class="diagram">
-    <h4>Architecture Diagram</h4>
-    <img src="diagram.png" alt="AWS Architecture Diagram" width="180">
-  </div>
-</div>
+    <!-- FCC Projects (separate block, not inside AWS flexbox) -->
+ <section class="fcc-projects">
+  <h2>FreeCodeCamp Projects</h2>
+  <ul>
+    <li><a href="./FCC/FCC-cat-app.html">Cat Photo App</a> – HTML basics</li>
+    <li><a href="./FCC/FCC-coffee-menu.html">Cafe Menu</a> – CSS styling</li>
+    <li><a href="./FCC/FCC-color-markers.html">Color Markers</a> – Layout & colors</li>
+  </ul>
+</section>
 
-    </section>
+
   </main>
 </body>
 </html>
