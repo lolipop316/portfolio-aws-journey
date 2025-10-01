@@ -37,7 +37,6 @@ section {
   margin: 1.5rem 0;
 }
 
-/* Projects */
 .project-card {
   margin-bottom: 1.5rem;
 }
@@ -46,7 +45,6 @@ section {
   max-width: 200px;
 }
 
-/* Contact form */
 form {
   margin-top: 1rem;
 }
@@ -62,7 +60,6 @@ input, textarea {
   margin-bottom: 1rem;
 }
 
-/* Links */
 a {
   color: #4ea3ff;            
   text-decoration: none;
