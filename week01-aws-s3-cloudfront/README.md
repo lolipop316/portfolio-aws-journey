@@ -7,8 +7,7 @@ I kept it simple but added a few security features to learn the basics.
 - **S3** to host a static site  
 - **CloudFront** to share it globally  
 - **WAF** for basic protection  
-- **VPC + EC2** for testing  
-- **CloudWatch + Lambda** for monitoring and auto-response  
+- **CloudWatch** for monitoring and auto-response  
 
 ### Diagram
 <img src="diagram.png" alt="AWS Architecture" width="400"/>
@@ -16,5 +15,5 @@ I kept it simple but added a few security features to learn the basics.
 
 This is one of my early AWS projects. I wanted something I could show in my portfolio that uses storage, networking, monitoring, and security all together.  
 
-📂 Files:  
+Files:  
 - `diagram.png` (my diagram)  
