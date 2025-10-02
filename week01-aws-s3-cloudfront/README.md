@@ -48,3 +48,8 @@ This is one of my early AWS projects. I wanted something I could show in my port
 - **Live Portfolio Site**  
   Portfolio site shared through CloudFront + WAF.  
   ![Portfolio Live](screenshots/portfolio-site-live.png)
+
+ 
+ - **Live Portfolio Site**  
+[View Here](https://d2sw0pzy8f02b8.cloudfront.net)
+
