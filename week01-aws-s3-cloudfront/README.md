@@ -10,7 +10,7 @@ I kept it simple but added a few security features to learn the basics.
 - **CloudWatch** for monitoring and auto-response  
 
 ### Diagram
-<img src="diagram.png" alt="AWS Architecture" width="400"/>
+<img src="diagram-v2.png" alt="AWS Architecture" width="400"/>
 
 
 This is one of my early AWS projects. I wanted something I could show in my portfolio that uses storage, networking, monitoring, and security all together.  
