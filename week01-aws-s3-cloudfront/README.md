@@ -3,6 +3,10 @@
 This is my first attempt at setting up a portfolio site on AWS.
 I kept it simple but added a few security features to learn the basics.
 
+ - **Live Portfolio Site**  
+[View Here](https://d2sw0pzy8f02b8.cloudfront.net)
+
+
 ---
 
 
@@ -16,10 +20,6 @@ I kept it simple but added a few security features to learn the basics.
 
 ## Architecture Diagram
 <img src="diagram-v2.png" alt="AWS Architecture" width="500"/>
-
----
-
-This is one of my early AWS projects. I wanted something I could show in my portfolio that uses storage, networking, monitoring, and security all together.  
 
 ---
 
@@ -48,8 +48,3 @@ This is one of my early AWS projects. I wanted something I could show in my port
 - **Live Portfolio Site**  
   Portfolio site shared through CloudFront + WAF.  
   ![Portfolio Live](screenshots/portfolio-site-live.png)
-
- 
- - **Live Portfolio Site**  
-[View Here](https://d2sw0pzy8f02b8.cloudfront.net)
-
