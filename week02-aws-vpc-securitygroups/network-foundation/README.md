@@ -54,8 +54,8 @@ Resources I created:
 ![Public Route Table](./rtb_public.png)
 ![Private Route Table](./rtb_private.png)
 
-**Architecture Diagram**
-![Architecture Diagram](./vpc_nat_architecture.png)
+### Network Flow Diagram
+![VPC Network Flow](./phase1_vpc_flow.png)
 
 
 ### What I learned
