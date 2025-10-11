@@ -41,14 +41,22 @@ Resources I created:
 
 ### Screenshots
 
-- nat-lab_vpc_overview.png  
-- subnets_public.png  
-- subnets_private.png  
-- igw_attached.png  
-- nat_gateway_available.png  
-- rtb_public.png  
-- rtb_private.png  
-- vpc_nat_architecture.png
+**VPC Overview**
+![VPC Overview](./nat-lab_vpc_overview.png)
+
+**Subnets**
+![Public Subnet](./subnets_public.png)
+![Private Subnet](./subnets_private.png)
+
+**Gateways and Routing**
+![Internet Gateway](./igw_attached.png)
+![NAT Gateway](./nat_gateway_available.png)
+![Public Route Table](./rtb_public.png)
+![Private Route Table](./rtb_private.png)
+
+**Architecture Diagram**
+![Architecture Diagram](./vpc_nat_architecture.png)
+
 
 ### What I learned
 
