@@ -30,11 +30,6 @@ I also practiced testing network connections and checking service status through
 
 ---
 
-### Folder Info
-Path: `week02-aws-vpc-securitygroups/security-groups/`  
-Commit message: `Phase 2 - Web to DB Isolation proof`
-
----
 
 ### Next Steps
 In the next phase I will rebuild this setup using Terraform to automate the network and instance creation.
