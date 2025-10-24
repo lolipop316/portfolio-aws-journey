@@ -1,5 +1,5 @@
 # AWS Secure Network Components / ALB + Bastion + Private Instance  
-### Week 03 — Security+ 4.2 / Network Components Hardening
+### Week 03 Security+ 4.2 / Network Components Hardening
 
 ### Summary
 This week focused on building and securing a three-tier AWS network with an Application Load Balancer (ALB), a Bastion Host, and a private web instance.  
