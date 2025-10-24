@@ -98,4 +98,4 @@ After fixing permissions, reattaching the right IAM role, and confirming SG rela
 
 ### Outcome
 A working three-tier architecture that uses ALB for public traffic, a Bastion for controlled admin access, and SSM for secure management.  
-The troubleshooting and recovery steps simulated a real-world scenario and helped reinforce secure network design under AWS best practices.
+The troubleshooting and recovery steps were real challenging, but represented real-world scenarios and helped reinforce secure network design.
