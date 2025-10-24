@@ -28,6 +28,14 @@ The process took several attempts to fix permissions, IAM roles, and instance st
 
 ---
 
+### Network Diagram
+
+![AWS Secure Network Architecture](./network_architecture_20251025.png)
+
+*Three-tier AWS network with ALB, Bastion Host, Private EC2, and SSM integration. (tried my best haha)*
+
+---
+
 ### Troubleshooting Notes
 I ran into several issues before everything worked correctly:
 - At first, I kept getting `Permission denied (publickey)` when trying to SSH from the bastion.  
