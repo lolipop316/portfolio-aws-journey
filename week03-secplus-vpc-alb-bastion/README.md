@@ -30,7 +30,11 @@ The process took several attempts to fix permissions, IAM roles, and instance st
 
 ### Network Diagram
 
-![AWS Secure Network Architecture](./network_architecture_20251025.png)
+<p align="center">
+  <img src="./network_architecture_20251025.png" alt="AWS Secure Network Architecture" width="700">
+</p>
+
+*Figure: Three-tier AWS network showing traffic flow between ALB, Bastion, Private EC2, and Systems Manager.*
 
 *Three-tier AWS network with ALB, Bastion Host, Private EC2, and SSM integration. (tried my best haha)*
 
