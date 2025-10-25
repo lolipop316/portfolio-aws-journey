@@ -24,9 +24,11 @@ The process took several attempts to fix permissions, IAM roles, and instance st
   - Used SSM Session Manager for access instead of permanent SSH keys  
   - Temporary key was injected through AWS CLI to restore access when locked out
 
-![VPC Overview](<p align="center">
+### VPC Overview
+
+<p align="center">
   <img src="./labvpc_reuse_20251024.png" alt="AWS VPC Overview" width="700">
-</p>)
+</p>
 
 ---
 
